@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DateStarted</key>
+	<date>2020-08-15T23:31:34Z</date>
+	<key>FileID</key>
+	<integer>31643746</integer>
+	<key>NameSpaceID</key>
+	<integer>3371136570</integer>
+	<key>NewPath</key>
+	<string>Users/devindatt/iCloud Drive (Archive)/$EDU/OpenCV_Course/$CV I - BASICS/week08-Image Recognition/03_HOG Image Classification/glassesDataset/cropped_withoutGlasses2</string>
+	<key>SourcePath</key>
+	<string>Users/devindatt/Library/Mobile Documents/com~apple~CloudDocs/$EDU/OpenCV_Course/$CV I - BASICS/week08-Image Recognition/03_HOG Image Classification/glassesDataset/cropped_withoutGlasses2</string>
+</dict>
+</plist>
